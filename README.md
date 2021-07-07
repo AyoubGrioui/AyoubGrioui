@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubgrioui&show_icons=true&hide_border=true&theme=dracula&locale=en&layout=compact" alt="ayoubgrioui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubgrioui&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="ayoubgrioui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubgrioui&count_private=true&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="ayoubgrioui" /></p>
