@@ -51,8 +51,7 @@
 
 <details>
   <summary>:zap: Most used Languages</summary>
-  <img align="left" alt="top used laguages" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubGrioui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-">
+  <img align="left" alt="top used laguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubGrioui&layout=compact">
 
 </details>
 [twitter]: https://twitter.com/codeSTACKr
