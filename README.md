@@ -15,6 +15,18 @@
 
 </details>
 
+<p align="center">
+  <a href="https://badges.pufler.dev/visits/ayoubgrioui/ayoubgrioui">
+    <img src="https://badges.pufler.dev/visits/ayoubgrioui/ayoubgrioui?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
+  </a>
+  <a href="https://badges.pufler.dev/years/ayoubgrioui">
+    <img src="https://badges.pufler.dev/years/ayoubgrioui?style=flat-square&color=blue&logo=github?1" alt="Years">
+  </a>
+  <a href="https://badges.pufler.dev/repos/ayoubgrioui">
+    <img src="https://badges.pufler.dev/repos/ayoubgrioui?style=flat-square&color=blue&logo=github?1" alt="Repos">
+  </a>
+</p>
+
 [twitter]: https://twitter.com/grioui_ayoub
 [instagram]: https://www.instagram.com/theworld.is.gray
 [linkedin]: https://www.linkedin.com/in/griouiayoub/
