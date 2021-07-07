@@ -45,8 +45,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="AyoubGrioui's GitHub Stats" src="https://github-readmestats.vercel.app/apiusername=AyoubGrioui&count_private=true&show_icons=true&hide_border=truetheme=radical" />
+  <img align="left" alt="AyoubGrioui's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AyoubGriouia&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 
 </details>
 
