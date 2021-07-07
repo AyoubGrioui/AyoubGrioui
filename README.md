@@ -12,21 +12,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <p>
-  <img align="left" alt="AyoubGrioui's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AyoubGrioui&theme=dracula" />
-  </p>
-  <p align="left">
-  <a href="https://badges.pufler.dev/visits/ayoubgrioui/ayoubgrioui">
-    <img src="https://badges.pufler.dev/visits/ayoubgrioui/ayoubgrioui?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
-  </a>
-  <a href="https://badges.pufler.dev/years/ayoubgrioui">
-    <img src="https://badges.pufler.dev/years/ayoubgrioui?style=flat-square&color=blue&logo=github?1" alt="Years">
-  </a>
-  <a href="https://badges.pufler.dev/repos/ayoubgrioui">
-    <img src="https://badges.pufler.dev/repos/ayoubgrioui?style=flat-square&color=blue&logo=github?1" alt="Repos">
-  </a>
-</p>
-  
+  <img align="left" alt="AyoubGrioui's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AyoubGrioui&theme=dracula" /> 
 </details>
 
 
