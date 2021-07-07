@@ -49,8 +49,12 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+<details>
+  <summary>:zap: Most used Languages</summary>
+  <img align="left" alt="top used laguages" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubGrioui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+">
+
+</details>
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
