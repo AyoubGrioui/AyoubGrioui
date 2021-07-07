@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hi there, I'm Ayoub 👋
 ## I'm a software engineering student!!
