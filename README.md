@@ -9,13 +9,11 @@
 
 <br />
 
-<p>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="AyoubGrioui's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AyoubGrioui&theme=dracula" />
-</details>
-</p>
-<p align="center">
+  <p align="left">
   <a href="https://badges.pufler.dev/visits/ayoubgrioui/ayoubgrioui">
     <img src="https://badges.pufler.dev/visits/ayoubgrioui/ayoubgrioui?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
   </a>
@@ -26,6 +24,9 @@
     <img src="https://badges.pufler.dev/repos/ayoubgrioui?style=flat-square&color=blue&logo=github?1" alt="Repos">
   </a>
 </p>
+  
+</details>
+
 
 [twitter]: https://twitter.com/grioui_ayoub
 [instagram]: https://www.instagram.com/theworld.is.gray
