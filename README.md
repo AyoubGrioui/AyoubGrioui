@@ -12,7 +12,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  <p>
   <img align="left" alt="AyoubGrioui's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AyoubGrioui&theme=dracula" />
+  </p>
   <p align="left">
   <a href="https://badges.pufler.dev/visits/ayoubgrioui/ayoubgrioui">
     <img src="https://badges.pufler.dev/visits/ayoubgrioui/ayoubgrioui?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
